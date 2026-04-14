@@ -1,0 +1,6 @@
+1) abrir el csv. mostrar las siguientes columnas: gender, lunch, y mathscore. mostrar las primeras 12 filas. mostrar las ultimas 8 filas
+2) abrir el csv. mostrar las ultimas 3 columnas. mostrar si hay espacios vacios. mostrar la cantidad y mostrar el tipo de dato de la utlima columna
+3) abrir el csv. mostrar la columna reading score. mostrar la cantidad y mostrar la suma.
+4) abrir el csv. mostrar las 2 primeras columnas. mostrar el tipo de dato. mostrar las ultimas 10 filas
+
+
